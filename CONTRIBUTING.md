@@ -1,4 +1,4 @@
-# Contributing to Resume Analyser
+# Contributing to Shortlyst
 
 Thank you for your interest in contributing! Here's how to get started.
 

@@ -1,4 +1,4 @@
-# Resume Analyser
+# Shortlyst
 
 > **NLP-powered resume screening & candidate ranking** — A precision instrument for evaluating job applicants at scale.
 
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Resume Analyser automates the initial screening of job applications using advanced NLP keyword matching. Upload resumes, define job requirements (must-have and nice-to-have skills), and instantly receive ranked candidates with detailed skill gap analysis.
+Shortlyst automates the initial screening of job applications using advanced NLP keyword matching. Upload resumes, define job requirements (must-have and nice-to-have skills), and instantly receive ranked candidates with detailed skill gap analysis.
 
 **Key Features:**
 - 🎯 **Weighted Scoring** — Must-have keywords (70%) vs nice-to-have (30%)

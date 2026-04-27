@@ -1,11 +1,11 @@
 #!/bin/bash
-# Resume Analyser — isolated project
+# Shortlyst — isolated project
 # No conflicts with other projects
 # Frontend: http://localhost:5176
 # Backend:  http://localhost:8002
 
 ROOT="$(cd "$(dirname "$0")" && pwd)"
-echo "Starting Resume Analyser..."
+echo "Starting Shortlyst..."
 echo "  UI  → http://localhost:5176"
 echo "  API → http://localhost:8002"
 echo ""

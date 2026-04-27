@@ -91,7 +91,7 @@ export default function Sidebar({ onResults }) {
       {/* Logo */}
       <div style={{ marginBottom: 32 }}>
         <p className="grotesk" style={{ fontSize: 15, fontWeight: 700, letterSpacing: '-0.02em', color: 'var(--text)' }}>
-          Resume Analyser
+          Shortlyst
         </p>
         <p className="mono" style={{ fontSize: 10, color: 'var(--dim)', marginTop: 2 }}>v2.0 · NLP-powered</p>
       </div>
